@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignIn screen has a form that calls sign in 1`] = `
+<TextInput
+  allowFontScaling={true}
+  editable={true}
+  multiline={false}
+  placeholder="Email Address"
+  placeholderTextColor="rgba(0, 0, 0, 0.54)"
+  rejectResponderTermination={true}
+  selectionColor="#6200ee"
+  style={
+    Array [
+      Object {
+        "flexGrow": 1,
+        "margin": 0,
+        "textAlign": "left",
+        "zIndex": 1,
+      },
+      Object {
+        "paddingHorizontal": 12,
+      },
+      Object {
+        "height": 64,
+      },
+      Object {
+        "paddingBottom": 0,
+        "paddingTop": 0,
+      },
+      Object {
+        "color": "#000000",
+        "fontFamily": "System",
+        "fontSize": 16,
+        "fontWeight": undefined,
+        "textAlignVertical": "center",
+      },
+    ]
+  }
+  testID="username-input"
+  underlineColorAndroid="transparent"
+  value="spoon@spoon.spoon"
+/>
+`;
+
+exports[`SignIn screen has a form that does stuff 1`] = `
+<TextInput
+  allowFontScaling={true}
+  editable={true}
+  multiline={false}
+  placeholder="Email Address"
+  placeholderTextColor="rgba(0, 0, 0, 0.54)"
+  rejectResponderTermination={true}
+  selectionColor="#6200ee"
+  style={
+    Array [
+      Object {
+        "flexGrow": 1,
+        "margin": 0,
+        "textAlign": "left",
+        "zIndex": 1,
+      },
+      Object {
+        "paddingHorizontal": 12,
+      },
+      Object {
+        "height": 64,
+      },
+      Object {
+        "paddingBottom": 0,
+        "paddingTop": 0,
+      },
+      Object {
+        "color": "#000000",
+        "fontFamily": "System",
+        "fontSize": 16,
+        "fontWeight": undefined,
+        "textAlignVertical": "center",
+      },
+    ]
+  }
+  testID="username-input"
+  underlineColorAndroid="transparent"
+  value="spoon@spoon.spoon"
+/>
+`;
